@@ -8,15 +8,18 @@
 
 - [x] [Day 2](https://adventofcode.com/2019/day/2)
 
-- [x] [Day 3](https://adventofcode.com/2019/day/3)
+> ##### Puzzle 1 Result: 3931283
+> ##### Puzzle 2 Result: 6979
 
-- [x] [Day 4](https://adventofcode.com/2019/day/4)
+- [ ] [Day 3](https://adventofcode.com/2019/day/3)
 
-- [x] [Day 5](https://adventofcode.com/2019/day/5)
+- [ ] [Day 4](https://adventofcode.com/2019/day/4)
 
-- [x] [Day 6](https://adventofcode.com/2019/day/6)
+- [ ] [Day 5](https://adventofcode.com/2019/day/5)
 
-- [x] [Day 7](https://adventofcode.com/2019/day/7)
+- [ ] [Day 6](https://adventofcode.com/2019/day/6)
+
+- [ ] [Day 7](https://adventofcode.com/2019/day/7)
 
 - [ ] [Day 8](https://adventofcode.com/2019/day/8)
 
