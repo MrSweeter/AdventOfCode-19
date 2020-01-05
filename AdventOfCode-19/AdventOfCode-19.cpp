@@ -2,11 +2,13 @@
 //
 
 #include <iostream>
-#include "AoCProgram.h"
+#include "inc/Program02.h"
+
+namespace Day = Vanga::Day02;
 
 int main()
 {
-	Vanga::AoCProgram p;
+	Day::Program p = Day::Program();
 	p.puzzle1();
 	p.puzzle2();
 	return 0;

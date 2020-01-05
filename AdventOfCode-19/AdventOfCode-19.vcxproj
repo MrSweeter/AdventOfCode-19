@@ -149,10 +149,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AdventOfCode-19.cpp" />
-    <ClCompile Include="AoCProgram.cpp" />
+    <ClCompile Include="src\AoCProgram.cpp" />
+    <ClCompile Include="src\day01\Program.cpp" />
+    <ClCompile Include="src\day02\Program.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AoCProgram.h" />
+    <ClInclude Include="inc\AoCProgram.h" />
+    <ClInclude Include="inc\Program01.h" />
+    <ClInclude Include="inc\Program02.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="src\day02\test.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
