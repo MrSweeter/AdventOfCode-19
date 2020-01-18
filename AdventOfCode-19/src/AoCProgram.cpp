@@ -15,7 +15,7 @@ AoCProgram::AoCProgram()
 
 AoCProgram::AoCProgram(string dayIdentifier) {
 
-	ifstream file(filesystem::current_path().string() + "/src/day" + dayIdentifier + "/input.txt");
+	ifstream file(filesystem::current_path().string() + "/src/day" + dayIdentifier + "/test.txt");
 
 	AoCProgram::inputs.clear();
 	for (string str; getline(file, str);)

@@ -152,14 +152,21 @@
     <ClCompile Include="src\AoCProgram.cpp" />
     <ClCompile Include="src\day01\Program.cpp" />
     <ClCompile Include="src\day02\Program.cpp" />
+    <ClCompile Include="src\day03\Program.cpp" />
+    <ClCompile Include="src\day04\Program.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="inc\AoCProgram.h" />
+    <ClInclude Include="inc\Program04.h" />
     <ClInclude Include="inc\Program01.h" />
     <ClInclude Include="inc\Program02.h" />
+    <ClInclude Include="inc\Program03.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="src\day02\test.txt" />
+    <Text Include="src\day03\input.txt" />
+    <Text Include="src\day03\explanation.txt" />
+    <Text Include="src\day03\test.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

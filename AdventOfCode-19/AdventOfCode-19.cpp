@@ -2,9 +2,9 @@
 //
 
 #include <iostream>
-#include "inc/Program02.h"
+#include "inc/Program04.h"
 
-namespace Day = Vanga::Day02;
+namespace Day = Vanga::Day04;
 
 int main()
 {
